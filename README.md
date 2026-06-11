@@ -1,5 +1,5 @@
 # secat-RTMP-Portable
-a cat file which helps you make your streams better and easily. (IT RUNS ON CMD!)
+a cat file which helps you make your streams better and easily. (IT RUNS ON CMD! and yes its doesn't have mic and cam feature but can record desktop)
 
 # How to start stream
 Step 1: Go to your command prompt and type "cd [TYPE THE SECAT FILE LOCATION]"
