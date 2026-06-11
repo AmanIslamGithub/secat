@@ -1,4 +1,4 @@
-# secat
+# secat-RTMP
 a cat file which helps you make your streams better and easily. (IT RUNS ON CMD!)
 
 # How to start stream
