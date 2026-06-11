@@ -1,0 +1,1 @@
+MsgBox "Make sure to check if its RTMP/Real-Time Messaging Protocol Type or you have to add server link if you didnt add it.", "48", "secat"
